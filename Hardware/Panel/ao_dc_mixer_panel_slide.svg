@@ -13,7 +13,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (1.0.2+r75+1)"
-   sodipodi:docname="mixer_panel_slide.svg">
+   sodipodi:docname="ao_dc_mixer_panel_slide.svg">
   <defs
      id="defs2">
     <clipPath
@@ -170,24 +170,24 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.84670104"
-     inkscape:cx="258.29151"
-     inkscape:cy="503.1701"
+     inkscape:zoom="0.59870805"
+     inkscape:cx="235.91025"
+     inkscape:cy="470.41721"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer11"
+     inkscape:current-layer="layer16"
      showgrid="false"
      units="in"
      inkscape:window-width="1516"
      inkscape:window-height="1012"
      inkscape:window-x="192"
-     inkscape:window-y="8"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-midpoints="false"
      inkscape:snap-others="true"
-     inkscape:snap-grids="false"
-     inkscape:snap-nodes="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-nodes="false"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="false"
      inkscape:snap-text-baseline="true"
@@ -198,13 +198,13 @@
      inkscape:snap-bbox="false"
      inkscape:snap-bbox-midpoints="true"
      inkscape:document-rotation="0"
-     inkscape:object-nodes="false">
+     inkscape:object-nodes="true">
     <inkscape:grid
        type="xygrid"
        id="grid10120"
        units="mm"
        spacingx="0.019685039"
-       spacingy="0.039370079"
+       spacingy="0.019685039"
        empspacing="10"
        originx="0"
        originy="11" />
@@ -229,7 +229,7 @@
        id="guide19282"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="2.4606309,4.2125993"
+       position="4.4291338,4.2519685"
        orientation="0,1"
        id="guide19286"
        inkscape:locked="false" />
@@ -274,21 +274,9 @@
        id="guide4298"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="1.9678927,3.9370098"
+       position="4.1338583,3.9370079"
        orientation="0,-1"
        id="guide11511" />
-    <sodipodi:guide
-       position="2.3425184,3.8582631"
-       orientation="1,0"
-       id="guide11693" />
-    <sodipodi:guide
-       position="3.0511754,3.8582655"
-       orientation="1,0"
-       id="guide11695" />
-    <sodipodi:guide
-       position="3.8385714,3.858265"
-       orientation="1,0"
-       id="guide11697" />
     <sodipodi:guide
        position="4.6259842,7.7559067"
        orientation="1,0"
@@ -306,33 +294,33 @@
        orientation="1,0"
        id="guide12066" />
     <sodipodi:guide
-       position="2.3425184,4.6062992"
-       orientation="-0.70710678,-0.70710678"
-       id="guide12175" />
-    <sodipodi:guide
-       position="3.0511754,4.6062992"
-       orientation="-0.70710678,-0.70710678"
-       id="guide12177" />
-    <sodipodi:guide
-       position="3.8385714,4.6062992"
-       orientation="-0.70710678,-0.70710678"
-       id="guide12179" />
-    <sodipodi:guide
-       position="4.5432975,4.6062992"
-       orientation="-0.70710678,-0.70710678"
-       id="guide12181" />
-    <sodipodi:guide
-       position="4.5432975,3.9386403"
-       orientation="1,0"
-       id="guide12193" />
-    <sodipodi:guide
        position="2.7559055,4.6062992"
        orientation="0,-1"
        id="guide12195" />
     <sodipodi:guide
-       position="2.6968503,3.9370098"
+       position="2.4606299,3.9370079"
        orientation="1,0"
-       id="guide12231" />
+       id="guide3537" />
+    <sodipodi:guide
+       position="4.4291338,3.9370079"
+       orientation="1,0"
+       id="guide3539" />
+    <sodipodi:guide
+       position="3.4448813,5.1574807"
+       orientation="-0.70710678,-0.70710678"
+       id="guide3541" />
+    <sodipodi:guide
+       position="2.8543307,5.1574802"
+       orientation="-0.70710678,-0.70710678"
+       id="guide3543" />
+    <sodipodi:guide
+       position="2.2637795,5.1574807"
+       orientation="-0.70710678,-0.70710678"
+       id="guide3545" />
+    <sodipodi:guide
+       position="2.8543307,5.1574807"
+       orientation="0,-1"
+       id="guide3547" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -342,7 +330,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -6959,7 +6947,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Behind panel"
-     style="display:inline;opacity:0.495">
+     style="display:none;opacity:0.495">
     <path
        style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m -7.2007858,1.4370141 h 0.622047 v 0.6220475 h -0.456693 l -0.165354,-0.1574803 z"
@@ -7117,7 +7105,7 @@
     </g>
     <g
        id="g31579"
-       transform="translate(-3.1693076,0.673226)"
+       transform="translate(-3.5629972,0.67322597)"
        inkscape:export-xdpi="101.46574"
        inkscape:export-ydpi="101.46574">
       <path
@@ -7149,7 +7137,7 @@
          r="0.17716536" />
     </g>
     <g
-       transform="translate(-2.4566936,0.67322495)"
+       transform="translate(-2.5748037,0.67322501)"
        id="g40368"
        inkscape:export-xdpi="101.46574"
        inkscape:export-ydpi="101.46574">
@@ -7166,25 +7154,8 @@
          r="0.21653543" />
     </g>
     <g
-       transform="translate(-2.4606394,-0.31265617)"
-       id="g40446"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574">
-      <path
-         style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m 6.6929134,7.0629921 h 0.622047 V 7.6850396 H 6.8582674 L 6.6929134,7.5275593 Z"
-         id="path40442"
-         inkscape:connector-curvature="0" />
-      <circle
-         style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle40444"
-         cx="7.0039372"
-         cy="7.3740191"
-         r="0.21653543" />
-    </g>
-    <g
        id="g40452"
-       transform="translate(-3.1693116,-0.31102565)"
+       transform="translate(-2.5787491,-0.31102178)"
        inkscape:export-xdpi="101.46574"
        inkscape:export-ydpi="101.46574">
       <path
@@ -7200,7 +7171,7 @@
          style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       transform="translate(-3.9527573,-0.31103156)"
+       transform="translate(-3.5590556,-0.31102375)"
        id="g40458"
        inkscape:export-xdpi="101.46574"
        inkscape:export-ydpi="101.46574">
@@ -7218,7 +7189,7 @@
     </g>
     <g
        id="g40464"
-       transform="translate(-4.6653645,-0.31102905)"
+       transform="translate(-4.5433116,-0.31102657)"
        inkscape:export-xdpi="101.46574"
        inkscape:export-ydpi="101.46574">
       <path
@@ -7336,7 +7307,7 @@
      inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="Outline"
-     style="display:inline">
+     style="display:none">
     <rect
        style="opacity:0.995;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect2925"
@@ -7344,9 +7315,9 @@
        height="7.8740182"
        x="1.968504"
        y="1.1574802"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_holes.png" />
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Hardware/Panel/ao_dc_mixer-panel/ao_dc_mixer.pretty/ao_dc_mixer_slide_holes.kicad_mod.png" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -7360,8 +7331,8 @@
        height="7.8740182"
        x="1.9685036"
        y="1.1574802"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_art.png" />
     <path
        style="opacity:0.995;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -7369,8 +7340,8 @@
        id="path4204"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_art.png" />
     <path
        style="opacity:0.995;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -7378,8 +7349,8 @@
        id="path4206"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_art.png" />
     <text
        xml:space="preserve"
@@ -7387,8 +7358,8 @@
        x="3.446908"
        y="1.4228325"
        id="text4163"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_art.png"><tspan
          sodipodi:role="line"
          id="tspan4161"
@@ -7401,8 +7372,8 @@
        x="3.4486644"
        y="8.9031477"
        id="text4163-1"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_art.png"><tspan
          sodipodi:role="line"
          id="tspan4161-0"
@@ -7466,24 +7437,15 @@
      id="layer16"
      inkscape:label="Labels"
      style="display:inline">
-    <circle
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_art.png"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-xdpi="101.46574"
-       r="0.27559054"
-       cy="7.0629892"
-       cx="4.5472393"
-       id="circle3034"
-       style="display:inline;opacity:0.995;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
        style="opacity:0.995;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect2718"
-       width="1.4370084"
+       width="1.8897631"
        height="0.98425162"
-       x="3.4448812"
+       x="2.992126"
        y="7.6141734"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_art.png" />
     <flowRoot
        transform="matrix(0.01041667,0,0,0.01041667,-2.4632552e-6,0.590545)"
@@ -8956,191 +8918,141 @@
     <circle
        r="0.27559054"
        cy="8.0472441"
-       cx="3.8385713"
+       cx="3.4448817"
        id="circle3085"
        style="display:inline;opacity:0.995;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_art.png" />
     <text
        id="text3089"
        y="8.5196848"
-       x="3.8385713"
+       x="3.4448817"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:0.995;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_art.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.0104167"
          y="8.5196848"
-         x="3.8385713"
+         x="3.4448817"
          id="tspan3087"
          sodipodi:role="line">OUT</tspan></text>
     <circle
        style="display:inline;opacity:0.995;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle3121"
-       cx="4.5472441"
+       cx="4.4291339"
        cy="8.0472441"
        r="0.27559054"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_art.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:0.995;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="4.5511947"
+       x="4.4330845"
        y="8.5196857"
        id="text3125"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_art.png"><tspan
          sodipodi:role="line"
          id="tspan3123"
-         x="4.5511947"
+         x="4.4330845"
          y="8.5196857"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.0104167">INV OUT</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.0104167">OUT</tspan></text>
     <circle
        r="0.17716536"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle2983"
        cx="-6.8897624"
        cy="12.181108" />
-    <circle
-       r="0.27559054"
-       cy="7.0629888"
-       cx="2.342514"
-       id="circle3175"
-       style="display:inline;opacity:0.995;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_art.png" />
-    <circle
-       style="display:inline;opacity:0.995;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle19616"
-       cx="3.0511801"
-       cy="7.0629873"
-       r="0.27559054"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_art.png" />
-    <circle
-       r="0.27559054"
-       cy="7.0629892"
-       cx="3.8385668"
-       id="circle19634"
-       style="display:inline;opacity:0.995;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_art.png" />
     <text
        id="text19700"
-       y="7.5354309"
-       x="2.3425183"
+       y="7.5354347"
+       x="2.4606299"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:0.995;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_art.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
-         y="7.5354309"
-         x="2.3425183"
+         y="7.5354347"
+         x="2.4606299"
          id="tspan19698"
-         sodipodi:role="line">1</tspan></text>
+         sodipodi:role="line">IN 1</tspan></text>
     <text
        id="text3089-5"
-       y="8.5196848"
-       x="2.7559054"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:0.995;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       y="5.4881892"
+       x="4.0354328"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0.6;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:0.995;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_art.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167"
-         y="8.5196848"
-         x="2.7559054"
+         y="5.4881892"
+         x="4.0354328"
          id="tspan3087-9"
-         sodipodi:role="line">GEN LEVEL</tspan></text>
+         sodipodi:role="line">GEN</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167"
+         y="5.688189"
+         x="4.0354328"
+         sodipodi:role="line"
+         id="tspan3549">LEVEL</tspan></text>
     <text
        id="text11745"
-       y="7.5354309"
-       x="3.0511754"
+       y="7.5354385"
+       x="3.4448771"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:0.995;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_art.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
-         y="7.5354309"
-         x="3.0511754"
+         y="7.5354385"
+         x="3.4448771"
          id="tspan11743"
-         sodipodi:role="line">2</tspan></text>
+         sodipodi:role="line">IN 2</tspan></text>
     <text
        id="text11749"
-       y="7.5354309"
-       x="3.8385713"
+       y="7.5354347"
+       x="4.4291334"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:0.995;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_art.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
-         y="7.5354309"
-         x="3.8385713"
+         y="7.5354347"
+         x="4.4291334"
          id="tspan11747"
-         sodipodi:role="line">3</tspan></text>
-    <text
-       id="text11753"
-       y="7.5354309"
-       x="4.5472436"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:0.995;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       xml:space="preserve"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_art.png"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
-         y="7.5354309"
-         x="4.5472436"
-         id="tspan11751"
-         sodipodi:role="line">4</tspan></text>
+         sodipodi:role="line">IN 3</tspan></text>
     <path
        style="font-variation-settings:normal;opacity:0.995;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-       d="m 2.2637795,5.4881889 7e-7,0.826775 0.078739,0.078739 v 0.6692896"
-       id="path12197"
-       sodipodi:nodetypes="cccc"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574" />
-    <path
-       style="font-variation-settings:normal;opacity:0.995;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-       d="m 2.8543307,5.4881889 9e-7,0.7086692 0.1968448,0.1968448 v 0.6692896"
+       d="m 2.8543307,5.5866143 v 0.255905 l 0.5905506,0.5905511 -4.2e-6,0.6299175"
        id="path12199"
        sodipodi:nodetypes="cccc"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574" />
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774" />
     <path
        style="font-variation-settings:normal;opacity:0.995;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-       d="m 3.4448813,5.4881889 1.1e-6,0.5118237 0.3936902,0.3936903 v 0.6692896"
+       d="m 3.4448818,5.5866143 -5e-7,0.255905 0.9842525,0.9842525 -0.00395,0.2362223"
        id="path12201"
        sodipodi:nodetypes="cccc"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574" />
-    <path
-       style="font-variation-settings:normal;opacity:0.995;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-       d="m 4.035433,5.4881889 1.3e-6,0.3976492 0.5078647,0.5078648 v 0.6692896"
-       id="path12203"
-       sodipodi:nodetypes="cccc"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574" />
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774" />
     <text
        id="text11753-0"
-       y="5.8425193"
+       y="5.4881892"
        x="4.6259842"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:0.995;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_art.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
-         y="5.8425193"
+         y="5.4881892"
          x="4.6259842"
          id="tspan11751-6"
          sodipodi:role="line">BIAS</tspan></text>
@@ -9159,18 +9071,72 @@
     <rect
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect2714"
-       width="0.43307081"
-       height="3.7007875"
-       x="4.4094486"
-       y="2.2204721"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574" />
+       width="1.1023625"
+       height="3.7007871"
+       x="3.7795274"
+       y="2.1417322"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.0208333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       d="M 4.2716548,8.3425224 H 4.6063006"
+       id="path3551"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774" />
+    <path
+       style="font-variation-settings:normal;opacity:0.995;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       d="m 2.2637795,5.5866143 v 0.255905 l 0.1968504,0.1968504 v 1.0236224"
+       id="path12197"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:0.995;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="2.8543308"
+       y="5.4881892"
+       id="text19338"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_art.png"><tspan
+         sodipodi:role="line"
+         id="tspan19336"
+         x="2.8543308"
+         y="5.4881892"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167">Channel LEVELs</tspan></text>
+    <circle
+       r="0.27559054"
+       cy="7.062993"
+       cx="4.4291286"
+       id="circle19634"
+       style="display:inline;opacity:0.995;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_art.png" />
+    <circle
+       style="display:inline;opacity:0.995;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle19616"
+       cx="3.4448819"
+       cy="7.062995"
+       r="0.27559054"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_art.png" />
+    <circle
+       r="0.27559054"
+       cy="7.0629926"
+       cx="2.4606256"
+       id="circle3175"
+       style="display:inline;opacity:0.995;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_art.png" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer15"
      inkscape:label="Holes"
-     style="display:inline">
+     style="display:none">
     <circle
        r="0.19685039"
        cy="1.7480378"
@@ -9479,78 +9445,78 @@
     <circle
        r="0.19685039"
        cy="8.0472441"
-       cx="3.8385713"
+       cx="3.4448817"
        id="circle3091"
        style="opacity:0.995;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_holes.png" />
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Hardware/Panel/ao_dc_mixer-panel/ao_dc_mixer.pretty/ao_dc_mixer_slide_holes.kicad_mod.png" />
     <path
        inkscape:connector-curvature="0"
        id="path3093"
-       d="M 3.8385668,7.9488183 V 8.1456688"
+       d="M 3.4448772,7.9488183 V 8.1456688"
        style="opacity:0.995;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_holes.png" />
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Hardware/Panel/ao_dc_mixer-panel/ao_dc_mixer.pretty/ao_dc_mixer_slide_holes.kicad_mod.png" />
     <path
        inkscape:connector-curvature="0"
        id="path3095"
-       d="m 3.9369918,8.0472435 h -0.19685"
+       d="m 3.5433022,8.0472435 h -0.19685"
        style="opacity:0.995;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_holes.png" />
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Hardware/Panel/ao_dc_mixer-panel/ao_dc_mixer.pretty/ao_dc_mixer_slide_holes.kicad_mod.png" />
     <circle
        style="opacity:0.995;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle3133"
-       cx="4.5472441"
+       cx="4.4291339"
        cy="8.0472431"
        r="0.19685039"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_holes.png" />
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Hardware/Panel/ao_dc_mixer-panel/ao_dc_mixer.pretty/ao_dc_mixer_slide_holes.kicad_mod.png" />
     <path
        style="opacity:0.995;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 4.5472388,7.9488169 V 8.1456674"
+       d="M 4.4291287,7.9488169 V 8.1456674"
        id="path3135"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_holes.png" />
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Hardware/Panel/ao_dc_mixer-panel/ao_dc_mixer.pretty/ao_dc_mixer_slide_holes.kicad_mod.png" />
     <path
        style="opacity:0.995;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 4.6456638,8.0472421 h -0.19685"
+       d="m 4.5275537,8.0472421 h -0.19685"
        id="path3137"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_holes.png" />
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Hardware/Panel/ao_dc_mixer-panel/ao_dc_mixer.pretty/ao_dc_mixer_slide_holes.kicad_mod.png" />
     <circle
        r="0.19685039"
-       cy="7.0629883"
-       cx="2.3425183"
+       cy="7.0629921"
+       cx="2.4606299"
        id="circle3199"
        style="opacity:0.995;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_holes.png" />
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Hardware/Panel/ao_dc_mixer-panel/ao_dc_mixer.pretty/ao_dc_mixer_slide_holes.kicad_mod.png" />
     <path
        inkscape:connector-curvature="0"
        id="path3201"
-       d="M 2.3425141,6.9645637 V 7.1614142"
+       d="M 2.4606257,6.9645675 V 7.161418"
        style="opacity:0.995;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_holes.png" />
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Hardware/Panel/ao_dc_mixer-panel/ao_dc_mixer.pretty/ao_dc_mixer_slide_holes.kicad_mod.png" />
     <path
        inkscape:connector-curvature="0"
        id="path3203"
-       d="m 2.4409391,7.0629889 h -0.19685"
+       d="m 2.5590507,7.0629927 h -0.19685"
        style="opacity:0.995;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_holes.png" />
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Hardware/Panel/ao_dc_mixer-panel/ao_dc_mixer.pretty/ao_dc_mixer_slide_holes.kicad_mod.png" />
     <circle
        r="0.13779527"
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -9570,84 +9536,59 @@
     <circle
        style="opacity:0.995;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle19618"
-       cx="3.0511801"
-       cy="7.0629873"
+       cx="3.4448819"
+       cy="7.062995"
        r="0.19685039"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_holes.png" />
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Hardware/Panel/ao_dc_mixer-panel/ao_dc_mixer.pretty/ao_dc_mixer_slide_holes.kicad_mod.png" />
     <path
        style="opacity:0.995;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 3.0511754,6.9645631 V 7.1614136"
+       d="M 3.4448771,6.9645709 V 7.1614214"
        id="path19620"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_holes.png" />
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Hardware/Panel/ao_dc_mixer-panel/ao_dc_mixer.pretty/ao_dc_mixer_slide_holes.kicad_mod.png" />
     <path
        style="opacity:0.995;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 3.1496004,7.0629883 h -0.19685"
+       d="m 3.5433021,7.0629961 h -0.19685"
        id="path19622"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_holes.png" />
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Hardware/Panel/ao_dc_mixer-panel/ao_dc_mixer.pretty/ao_dc_mixer_slide_holes.kicad_mod.png" />
     <circle
        r="0.19685039"
-       cy="7.0629883"
-       cx="3.8385713"
+       cy="7.0629921"
+       cx="4.4291334"
        id="circle19636"
        style="opacity:0.995;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_holes.png" />
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Hardware/Panel/ao_dc_mixer-panel/ao_dc_mixer.pretty/ao_dc_mixer_slide_holes.kicad_mod.png" />
     <path
        inkscape:connector-curvature="0"
        id="path19638"
-       d="M 3.8385668,6.9645639 V 7.1614144"
+       d="M 4.4291293,6.9645678 V 7.1614183"
        style="opacity:0.995;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_holes.png" />
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Hardware/Panel/ao_dc_mixer-panel/ao_dc_mixer.pretty/ao_dc_mixer_slide_holes.kicad_mod.png" />
     <path
        inkscape:connector-curvature="0"
        id="path19640"
-       d="m 3.9369918,7.0629891 h -0.19685"
+       d="m 4.5275543,7.062993 h -0.19685"
        style="opacity:0.995;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_holes.png" />
-    <circle
-       style="opacity:0.995;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle19654"
-       cx="4.5472436"
-       cy="7.0629883"
-       r="0.19685039"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_holes.png" />
-    <path
-       style="opacity:0.995;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 4.5472392,6.9645637 V 7.1614142"
-       id="path19656"
-       inkscape:connector-curvature="0"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_holes.png" />
-    <path
-       style="opacity:0.995;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 4.6456642,7.0629889 h -0.19685"
-       id="path19658"
-       inkscape:connector-curvature="0"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_holes.png" />
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Hardware/Panel/ao_dc_mixer-panel/ao_dc_mixer.pretty/ao_dc_mixer_slide_holes.kicad_mod.png" />
     <g
        id="g2966"
        transform="translate(4.7440949,0.84251425)"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_holes.png"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Hardware/Panel/ao_dc_mixer-panel/ao_dc_mixer.pretty/ao_dc_mixer_slide_holes.kicad_mod.png"
        style="opacity:0.995">
       <circle
          transform="scale(-1,1)"
@@ -9674,9 +9615,9 @@
     <g
        transform="translate(7.3503938,0.84251425)"
        id="g2974"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_holes.png"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Hardware/Panel/ao_dc_mixer-panel/ao_dc_mixer.pretty/ao_dc_mixer_slide_holes.kicad_mod.png"
        style="opacity:0.995">
       <circle
          style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -9703,9 +9644,9 @@
     <g
        transform="translate(4.7440949,8.4803096)"
        id="g2982"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_holes.png"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Hardware/Panel/ao_dc_mixer-panel/ao_dc_mixer.pretty/ao_dc_mixer_slide_holes.kicad_mod.png"
        style="opacity:0.995">
       <circle
          style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -9732,9 +9673,9 @@
     <g
        id="g2990"
        transform="translate(7.3503938,8.4803096)"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_holes.png"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Hardware/Panel/ao_dc_mixer-panel/ao_dc_mixer.pretty/ao_dc_mixer_slide_holes.kicad_mod.png"
        style="opacity:0.995">
       <circle
          transform="scale(-1,1)"
@@ -9850,258 +9791,68 @@
          inkscape:connector-curvature="0" />
     </g>
     <rect
-       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect3576"
-       width="1.2204728"
-       height="0.23622055"
-       x="2.5393708"
-       y="5.6456709"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:0.995;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="3.1496062"
-       y="5.8425193"
-       id="text19338"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo_outs_art.png"><tspan
-         sodipodi:role="line"
-         id="tspan19336"
-         x="3.1496062"
-         y="5.8425193"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167">Channel LEVELs</tspan></text>
-    <g
-       id="g11777"
-       transform="rotate(-90,-5.3641761,-4.5019666)"
-       style="display:inline"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574">
-      <rect
-         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect11763"
-         width="2.8346457"
-         height="0.070866145"
-         x="-15.196851"
-         y="3.0905511" />
-      <circle
-         r="0.062992126"
-         style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle11765"
-         cx="-15.35433"
-         cy="3.1259897" />
-      <path
-         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m -15.354333,3.0866195 v 0.07874"
-         id="path11767"
-         inkscape:connector-curvature="0" />
-      <path
-         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m -15.314959,3.1259906 h -0.07874"
-         id="path11769"
-         inkscape:connector-curvature="0" />
-      <circle
-         r="0.062992126"
-         style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle11771"
-         cx="-12.204723"
-         cy="3.1259897" />
-      <path
-         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m -12.204727,3.0866195 v 0.07874"
-         id="path11773"
-         inkscape:connector-curvature="0" />
-      <path
-         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m -12.165353,3.1259906 h -0.07874"
-         id="path11775"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g11801"
-       transform="rotate(-90,-5.0689005,-4.7972421)"
-       style="display:inline"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574">
-      <rect
-         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect11787"
-         width="2.8346457"
-         height="0.070866145"
-         x="-15.196851"
-         y="3.0905511" />
-      <circle
-         r="0.062992126"
-         style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle11789"
-         cx="-15.35433"
-         cy="3.1259897" />
-      <path
-         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m -15.354333,3.0866195 v 0.07874"
-         id="path11791"
-         inkscape:connector-curvature="0" />
-      <path
-         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m -15.314959,3.1259906 h -0.07874"
-         id="path11793"
-         inkscape:connector-curvature="0" />
-      <circle
-         r="0.062992126"
-         style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle11795"
-         cx="-12.204723"
-         cy="3.1259897" />
-      <path
-         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m -12.204727,3.0866195 v 0.07874"
-         id="path11797"
-         inkscape:connector-curvature="0" />
-      <path
-         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m -12.165353,3.1259906 h -0.07874"
-         id="path11799"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g11825"
-       transform="rotate(-90,-4.7736249,-5.0925177)"
-       style="display:inline"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574">
-      <rect
-         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect11811"
-         width="2.8346457"
-         height="0.070866145"
-         x="-15.196851"
-         y="3.0905511" />
-      <circle
-         r="0.062992126"
-         style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle11813"
-         cx="-15.35433"
-         cy="3.1259897" />
-      <path
-         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m -15.354333,3.0866195 v 0.07874"
-         id="path11815"
-         inkscape:connector-curvature="0" />
-      <path
-         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m -15.314959,3.1259906 h -0.07874"
-         id="path11817"
-         inkscape:connector-curvature="0" />
-      <circle
-         r="0.062992126"
-         style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle11819"
-         cx="-12.204723"
-         cy="3.1259897" />
-      <path
-         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m -12.204727,3.0866195 v 0.07874"
-         id="path11821"
-         inkscape:connector-curvature="0" />
-      <path
-         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m -12.165353,3.1259906 h -0.07874"
-         id="path11823"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g11849"
-       transform="rotate(-90,-4.4783493,-5.3877933)"
-       style="display:inline"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574">
-      <rect
-         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect11835"
-         width="2.8346457"
-         height="0.070866145"
-         x="-15.196851"
-         y="3.0905511" />
-      <circle
-         r="0.062992126"
-         style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle11837"
-         cx="-15.35433"
-         cy="3.1259897" />
-      <path
-         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m -15.354333,3.0866195 v 0.07874"
-         id="path11839"
-         inkscape:connector-curvature="0" />
-      <path
-         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m -15.314959,3.1259906 h -0.07874"
-         id="path11841"
-         inkscape:connector-curvature="0" />
-      <circle
-         r="0.062992126"
-         style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle11843"
-         cx="-12.204723"
-         cy="3.1259897" />
-      <path
-         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m -12.204727,3.0866195 v 0.07874"
-         id="path11845"
-         inkscape:connector-curvature="0" />
-      <path
-         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m -12.165353,3.1259906 h -0.07874"
-         id="path11847"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g11947"
-       transform="rotate(-90,-4.1830737,-5.6830689)"
-       style="display:inline"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574">
-      <rect
-         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect11933"
-         width="2.8346457"
-         height="0.070866145"
-         x="-15.196851"
-         y="3.0905511" />
-      <circle
-         r="0.062992126"
-         style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle11935"
-         cx="-15.35433"
-         cy="3.1259897" />
-      <path
-         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m -15.354333,3.0866195 v 0.07874"
-         id="path11937"
-         inkscape:connector-curvature="0" />
-      <path
-         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m -15.314959,3.1259906 h -0.07874"
-         id="path11939"
-         inkscape:connector-curvature="0" />
-      <circle
-         r="0.062992126"
-         style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle11941"
-         cx="-12.204723"
-         cy="3.1259897" />
-      <path
-         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m -12.204727,3.0866195 v 0.07874"
-         id="path11943"
-         inkscape:connector-curvature="0" />
-      <path
-         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m -12.165353,3.1259906 h -0.07874"
-         id="path11945"
-         inkscape:connector-curvature="0" />
-    </g>
+       style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect11763"
+       width="2.5880084"
+       height="0.052575428"
+       x="-5.2073812"
+       y="2.2374902"
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Hardware/Panel/ao_dc_mixer-panel/ao_dc_mixer.pretty/ao_dc_mixer_slide_holes.kicad_mod.png"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774" />
+    <circle
+       r="0.062992126"
+       style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle11765"
+       cx="-6.0787416"
+       cy="2.2637801"
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Hardware/Panel/ao_dc_mixer-panel/ao_dc_mixer.pretty/ao_dc_mixer_slide_holes.kicad_mod.png"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 2.22441,6.0787443 H 2.30315"
+       id="path11767"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Hardware/Panel/ao_dc_mixer-panel/ao_dc_mixer.pretty/ao_dc_mixer_slide_holes.kicad_mod.png"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 2.2637811,6.0393703 v 0.07874"
+       id="path11769"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Hardware/Panel/ao_dc_mixer-panel/ao_dc_mixer.pretty/ao_dc_mixer_slide_holes.kicad_mod.png"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774" />
+    <circle
+       r="0.062992126"
+       style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle11771"
+       cx="-2.3385806"
+       cy="2.2637801"
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Hardware/Panel/ao_dc_mixer-panel/ao_dc_mixer.pretty/ao_dc_mixer_slide_holes.kicad_mod.png"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 2.22441,2.3385843 H 2.30315"
+       id="path11773"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Hardware/Panel/ao_dc_mixer-panel/ao_dc_mixer.pretty/ao_dc_mixer_slide_holes.kicad_mod.png"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 2.2637811,2.2992103 v 0.07874"
+       id="path11775"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Hardware/Panel/ao_dc_mixer-panel/ao_dc_mixer.pretty/ao_dc_mixer_slide_holes.kicad_mod.png"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774" />
     <circle
        cy="10.507873"
        cx="-0.78739715"
@@ -10134,6 +9885,102 @@
        d="m -0.68897656,10.507874 h -0.19685"
        id="path2682"
        inkscape:connector-curvature="0" />
+    <rect
+       style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3553"
+       width="2.5880084"
+       height="0.052575428"
+       x="-5.2073812"
+       y="2.8280416"
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Hardware/Panel/ao_dc_mixer-panel/ao_dc_mixer.pretty/ao_dc_mixer_slide_holes.kicad_mod.png"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774" />
+    <rect
+       style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3555"
+       width="2.5880084"
+       height="0.052575428"
+       x="-5.2073812"
+       y="3.4185925"
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Hardware/Panel/ao_dc_mixer-panel/ao_dc_mixer.pretty/ao_dc_mixer_slide_holes.kicad_mod.png"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774" />
+    <rect
+       style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3557"
+       width="2.5880084"
+       height="0.052575428"
+       x="-5.2073812"
+       y="4.0091438"
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Hardware/Panel/ao_dc_mixer-panel/ao_dc_mixer.pretty/ao_dc_mixer_slide_holes.kicad_mod.png"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774" />
+    <rect
+       style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3559"
+       width="2.5880084"
+       height="0.052575428"
+       x="-5.2073898"
+       y="4.5996914"
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Hardware/Panel/ao_dc_mixer-panel/ao_dc_mixer.pretty/ao_dc_mixer_slide_holes.kicad_mod.png"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774" />
+    <circle
+       r="0.062992126"
+       style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle3561"
+       cx="-6.0787416"
+       cy="4.6259832"
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Hardware/Panel/ao_dc_mixer-panel/ao_dc_mixer.pretty/ao_dc_mixer_slide_holes.kicad_mod.png"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 4.5866131,6.0787443 h 0.07874"
+       id="path3563"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Hardware/Panel/ao_dc_mixer-panel/ao_dc_mixer.pretty/ao_dc_mixer_slide_holes.kicad_mod.png"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 4.6259842,6.0393703 v 0.07874"
+       id="path3565"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Hardware/Panel/ao_dc_mixer-panel/ao_dc_mixer.pretty/ao_dc_mixer_slide_holes.kicad_mod.png"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774" />
+    <circle
+       r="0.062992126"
+       style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle3567"
+       cx="-2.3385806"
+       cy="4.6259832"
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Hardware/Panel/ao_dc_mixer-panel/ao_dc_mixer.pretty/ao_dc_mixer_slide_holes.kicad_mod.png"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 4.5866131,2.3385843 h 0.07874"
+       id="path3569"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Hardware/Panel/ao_dc_mixer-panel/ao_dc_mixer.pretty/ao_dc_mixer_slide_holes.kicad_mod.png"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 4.6259842,2.2992103 v 0.07874"
+       id="path3571"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Hardware/Panel/ao_dc_mixer-panel/ao_dc_mixer.pretty/ao_dc_mixer_slide_holes.kicad_mod.png"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -10166,13 +10013,13 @@
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="Panel Hardware"
-     style="display:inline">
+     style="display:none">
     <g
        id="g11783"
        transform="translate(16.122047,0.55117393)"
        style="display:inline"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574">
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774">
       <rect
          style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect11779"
@@ -10186,63 +10033,42 @@
          d="m -13.996063,3.3622047 h 0.27559"
          id="path11781" />
     </g>
-    <g
-       id="g11807"
-       transform="translate(16.712598,0.55117393)"
-       style="display:inline"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574">
-      <rect
-         style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect11803"
-         width="0.47244096"
-         height="0.27559054"
-         x="-3.5984251"
-         y="-13.996063"
-         transform="rotate(-90)" />
-      <path
-         style="fill:#000000;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0520834;stroke-linejoin:bevel"
-         d="m -13.996063,3.3622047 h 0.27559"
-         id="path11805" />
-    </g>
-    <g
-       id="g11831"
-       transform="translate(17.303149,0.55117393)"
-       style="display:inline"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574">
-      <rect
-         style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect11827"
-         width="0.47244096"
-         height="0.27559054"
-         x="-3.5984251"
-         y="-13.996063"
-         transform="rotate(-90)" />
-      <path
-         style="fill:#000000;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0520834;stroke-linejoin:bevel"
-         d="m -13.996063,3.3622047 h 0.27559"
-         id="path11829" />
-    </g>
-    <g
-       id="g11855"
-       transform="translate(17.8937,0.55117393)"
-       style="display:inline"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574">
-      <rect
-         style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect11851"
-         width="0.47244096"
-         height="0.27559054"
-         x="-3.5984251"
-         y="-13.996063"
-         transform="rotate(-90)" />
-      <path
-         style="fill:#000000;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0520834;stroke-linejoin:bevel"
-         d="m -13.996063,3.3622047 h 0.27559"
-         id="path11853" />
-    </g>
+    <rect
+       style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect11803"
+       width="0.47244096"
+       height="0.27559054"
+       x="-4.1495991"
+       y="2.7165349"
+       transform="rotate(-90)" />
+    <path
+       style="fill:#000000;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0520834;stroke-linejoin:bevel"
+       d="m 2.716535,3.9133786 h 0.27559"
+       id="path11805" />
+    <rect
+       style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect11827"
+       width="0.47244096"
+       height="0.27559054"
+       x="-4.1495991"
+       y="3.3070858"
+       transform="rotate(-90)" />
+    <path
+       style="fill:#000000;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0520834;stroke-linejoin:bevel"
+       d="m 3.307086,3.9133786 h 0.27559"
+       id="path11829" />
+    <rect
+       style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect11851"
+       width="0.47244096"
+       height="0.27559054"
+       x="-4.1495991"
+       y="3.8976367"
+       transform="rotate(-90)" />
+    <path
+       style="fill:#000000;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0520834;stroke-linejoin:bevel"
+       d="m 3.897637,3.9133786 h 0.27559"
+       id="path11853" />
     <g
        id="g3230-5"
        style="display:inline"
@@ -10646,10 +10472,10 @@
     <g
        id="g3105"
        style="display:inline;opacity:0.995"
-       transform="matrix(1.000002,0,0,1.000002,4.3933635,2.0770512)"
+       transform="matrix(1.000002,0,0,1.000002,3.9996739,2.0770512)"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo outs panel.png"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574">
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774">
       <circle
          transform="rotate(-120)"
          r="0.26752752"
@@ -10690,12 +10516,12 @@
          transform="rotate(-120)" />
     </g>
     <g
-       transform="matrix(1.000002,0,0,1.000002,5.1020357,2.0770512)"
+       transform="matrix(1.000002,0,0,1.000002,4.9839256,2.0770512)"
        style="display:inline;opacity:0.995"
        id="g3157"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo outs panel.png"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574">
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774">
       <circle
          style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle3149"
@@ -10738,10 +10564,10 @@
     <g
        id="g3231"
        style="display:inline;opacity:0.995"
-       transform="matrix(1.000002,0,0,1.000002,2.8973062,1.0927961)"
+       transform="matrix(1.000002,0,0,1.000002,3.0154178,1.0927999)"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo outs panel.png"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574">
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774">
       <circle
          transform="rotate(-120)"
          r="0.26752752"
@@ -10782,41 +10608,12 @@
          transform="rotate(-120)" />
     </g>
     <g
-       transform="matrix(-0.62017717,0,0,0.62017717,4.1631418,3.5452426)"
-       id="g2999"
-       style="display:inline"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574">
-      <circle
-         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle2991"
-         cx="2.3643098"
-         cy="7.0687695"
-         r="0.61374104" />
-      <path
-         style="opacity:0.884;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m 2.2736434,6.5666128 0.181333,-10e-7 0.030222,0.068581 0.1426661,0.068693 0.072459,-0.019142 0.1130813,0.1417544 -0.034766,0.066393 0.034612,0.1514862 0.06015,0.044707 -0.040299,0.1767984 -0.073582,0.014226 -0.096838,0.1215243 0.00256,0.074901 -0.1633405,0.07875 -0.057007,-0.048651 -0.1611692,-1e-6 -0.057007,0.048651 -0.1633405,-0.07875 0.00256,-0.074901 -0.096838,-0.1215246 -0.073582,-0.014226 -0.040299,-0.1767984 0.06015,-0.044707 0.034612,-0.1514858 -0.034766,-0.066393 0.1130812,-0.1417542 0.072459,0.019142 0.1426662,-0.068691 z"
-         id="path2993"
-         inkscape:connector-curvature="0" />
-      <circle
-         style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle2995"
-         cx="2.3643107"
-         cy="7.0687723"
-         r="0.39753675" />
-      <path
-         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.0312499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="M 2.3622056,6.4724214 V 6.6692718"
-         id="path2997"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(1.000002,0,0,1.000002,3.605972,1.0927946)"
+       transform="matrix(1.000002,0,0,1.000002,3.9996737,1.0928024)"
        style="display:inline;opacity:0.995"
        id="g19632"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo outs panel.png"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574">
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774">
       <circle
          style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle19624"
@@ -10859,10 +10656,10 @@
     <g
        id="g19650"
        style="display:inline;opacity:0.995"
-       transform="matrix(1.000002,0,0,1.000002,4.3933634,1.0927954)"
+       transform="matrix(1.000002,0,0,1.000002,4.9839259,1.0927993)"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo outs panel.png"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574">
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774">
       <circle
          transform="rotate(-120)"
          r="0.26752752"
@@ -10901,52 +10698,6 @@
          cy="-3.4655535"
          r="0.12532775"
          transform="rotate(-120)" />
-    </g>
-    <g
-       transform="matrix(1.000002,0,0,1.000002,5.1020313,1.0927961)"
-       style="display:inline;opacity:0.995"
-       id="g19668"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/Stereo Outs/Panel/stereo outs panel.png"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574">
-      <circle
-         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle19660"
-         cx="-4.8929329"
-         cy="-3.4655535"
-         r="0.26752752"
-         transform="rotate(-120)" />
-      <path
-         transform="matrix(-0.12479012,-0.21614283,0.21614283,-0.12479012,-1.7787487,6.3931811)"
-         inkscape:transform-center-y="2.0377906e-06"
-         d="m -0.44985651,6.0200689 -1.06879179,0 -0.5343958,-0.9256008 0.5343959,-0.9256008 1.06879179,0 0.53439582,0.9256009 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="true"
-         sodipodi:arg2="1.5707963"
-         sodipodi:arg1="1.0471976"
-         sodipodi:r2="0.99404621"
-         sodipodi:r1="1.0687917"
-         sodipodi:cy="5.0944681"
-         sodipodi:cx="-0.98425233"
-         sodipodi:sides="6"
-         id="path19662"
-         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0417367;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         sodipodi:type="star" />
-      <circle
-         transform="rotate(-120)"
-         r="0.17638719"
-         cy="-3.4655535"
-         cx="-4.8929329"
-         id="circle19664"
-         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <circle
-         transform="rotate(-120)"
-         r="0.12532775"
-         cy="-3.4655535"
-         cx="-4.8929329"
-         id="circle19666"
-         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
        id="g6656"
@@ -11057,8 +10808,8 @@
        id="g2712"
        transform="translate(18.484247,0.55118084)"
        style="display:inline"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574">
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774">
       <rect
          style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect2708"
@@ -11158,7 +10909,9 @@
     <g
        id="g3509-06"
        style="display:inline"
-       transform="translate(12.460483,-4.2054255)">
+       transform="translate(12.460483,-4.2054255)"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774">
       <circle
          style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104331;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="path3500-2"
@@ -11177,72 +10930,11 @@
          r="0.098425195" />
     </g>
     <g
-       id="g3509-7"
-       style="display:inline"
-       transform="translate(13.051038,-4.2054277)">
-      <circle
-         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104331;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="path3500-92"
-         cx="-10.196706"
-         cy="6.5440121"
-         r="0.098425195" />
-      <path
-         style="fill:#808080;fill-rule:evenodd;stroke:#808080;stroke-width:0.03125;stroke-linejoin:bevel;stroke-opacity:1"
-         d="m -10.295134,6.5440142 h 0.19685"
-         id="path3502-0" />
-      <circle
-         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104331;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle3504-23"
-         cx="-10.196706"
-         cy="6.5440121"
-         r="0.098425195" />
-    </g>
-    <g
-       id="g3509-75"
-       style="display:inline"
-       transform="translate(13.641589,-4.2054277)">
-      <circle
-         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104331;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="path3500-922"
-         cx="-10.196706"
-         cy="6.5440121"
-         r="0.098425195" />
-      <path
-         style="fill:#808080;fill-rule:evenodd;stroke:#808080;stroke-width:0.03125;stroke-linejoin:bevel;stroke-opacity:1"
-         d="m -10.295134,6.5440142 h 0.19685"
-         id="path3502-8" />
-      <circle
-         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104331;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle3504-9"
-         cx="-10.196706"
-         cy="6.5440121"
-         r="0.098425195" />
-    </g>
-    <g
-       id="g3509-73"
-       style="display:inline"
-       transform="translate(14.23214,-4.2054277)">
-      <circle
-         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104331;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="path3500-6"
-         cx="-10.196706"
-         cy="6.5440121"
-         r="0.098425195" />
-      <path
-         style="fill:#808080;fill-rule:evenodd;stroke:#808080;stroke-width:0.03125;stroke-linejoin:bevel;stroke-opacity:1"
-         d="m -10.295134,6.5440142 h 0.19685"
-         id="path3502-1" />
-      <circle
-         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104331;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle3504-29"
-         cx="-10.196706"
-         cy="6.5440121"
-         r="0.098425195" />
-    </g>
-    <g
        id="g3509-31"
        style="display:inline"
-       transform="translate(14.822688,-4.2054255)">
+       transform="translate(14.822688,-4.2054255)"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774">
       <circle
          style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104331;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="path3500-94"
@@ -11263,7 +10955,9 @@
     <g
        id="g3509-5"
        style="display:inline"
-       transform="translate(12.460489,-1.0558238)">
+       transform="translate(12.460489,-0.46526977)"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774">
       <circle
          style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104331;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="path3500-0"
@@ -11282,72 +10976,11 @@
          r="0.098425195" />
     </g>
     <g
-       id="g3509-063"
-       style="display:inline"
-       transform="translate(13.051044,-1.055826)">
-      <circle
-         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104331;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="path3500-20"
-         cx="-10.196706"
-         cy="6.5440121"
-         r="0.098425195" />
-      <path
-         style="fill:#808080;fill-rule:evenodd;stroke:#808080;stroke-width:0.03125;stroke-linejoin:bevel;stroke-opacity:1"
-         d="m -10.295134,6.5440142 h 0.19685"
-         id="path3502-615" />
-      <circle
-         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104331;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle3504-5"
-         cx="-10.196706"
-         cy="6.5440121"
-         r="0.098425195" />
-    </g>
-    <g
-       id="g3509-4"
-       style="display:inline"
-       transform="translate(13.641592,-1.0558238)">
-      <circle
-         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104331;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="path3500-7"
-         cx="-10.196706"
-         cy="6.5440121"
-         r="0.098425195" />
-      <path
-         style="fill:#808080;fill-rule:evenodd;stroke:#808080;stroke-width:0.03125;stroke-linejoin:bevel;stroke-opacity:1"
-         d="m -10.295134,6.5440142 h 0.19685"
-         id="path3502-65" />
-      <circle
-         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104331;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle3504-69"
-         cx="-10.196706"
-         cy="6.5440121"
-         r="0.098425195" />
-    </g>
-    <g
-       id="g3509-37"
-       style="display:inline"
-       transform="translate(14.232143,-1.0558238)">
-      <circle
-         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104331;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="path3500-4"
-         cx="-10.196706"
-         cy="6.5440121"
-         r="0.098425195" />
-      <path
-         style="fill:#808080;fill-rule:evenodd;stroke:#808080;stroke-width:0.03125;stroke-linejoin:bevel;stroke-opacity:1"
-         d="m -10.295134,6.5440142 h 0.19685"
-         id="path3502-5" />
-      <circle
-         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104331;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle3504-25"
-         cx="-10.196706"
-         cy="6.5440121"
-         r="0.098425195" />
-    </g>
-    <g
        id="g3509-47"
        style="display:inline"
-       transform="translate(14.822694,-1.0558238)">
+       transform="translate(14.822694,-0.46526977)"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774">
       <circle
          style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104331;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="path3500-44"

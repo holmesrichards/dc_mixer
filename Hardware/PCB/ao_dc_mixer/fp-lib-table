@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name ao_tht)(type KiCad)(uri ${KIPRJMOD}/ao_tht.pretty)(options "")(descr ""))
+  (lib (name ao_dc_mixer)(type KiCad)(uri "/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Hardware/Panel/ao_dc_mixer-panel/ao_dc_mixer.pretty")(options "")(descr ""))
 )

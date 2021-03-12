@@ -4,8 +4,8 @@
 
 Based loosely on MFOS Quad DC mixer (but only one unit per module). Changes:
 
-* Add fourth input (maybe).
-* For a general gain control, add an inverting stage before MFOS's U1-A, with no bias. Change U1-A stage to unity gain, with bias applied there. This means MFOS's normal output becomes the inverted output and vice versa.
-* In Wilson's design, bias was applied to stage with 3 summed inputs so output was -(V1+V2+V3)+4Vbias, so he needed 4Vbias going into the last stage to get output of (V1+V2+V3)+4Vbias. Hence the gain of 4 on the bias amplification stage. Here the sum is separated from the bias, so bias stage output is -(V1+V2+V3+V4)+2Vbias. Need gain of 2, not 4. Also to get same bias range the voltage divider on the bias needs to divide by 2, not 4.
-* Use antiparallel diodes in series with the bias voltage (and a pulldown resistor) to create a dead zone around zero in the bias pot, a la YuSynth mixer.
-* Reduce impedances in most stages.
+* For a general gain control, split MFOS's first op amp stage into an inverting variable gain mixing stage and an inverting unity gain with bias stage. This means MFOS's normal output became the inverted output and vice versa.
+* In Wilson's design, bias was applied to stage with 3 summed inputs so output was -(V<sub>1</sub>+V<sub>2</sub>+V<sub>3</sub>)+4V<sub>bias</sub>, so he needed 4V<sub>bias</sub> going into the last stage to get output of (V<sub>1</sub>+V<sub>2</sub>+V<sub>3</sub>)+4V<sub>bias</sub>. Hence the gain of 4 on the bias amplification stage. Here the sum is separated from the bias, so bias stage output is -(V<sub>1</sub>+V<sub>2</sub>+V<sub>3</sub>)+2V<sub>bias</sub>. Therefore changed gain from 4 to 2. Also, to get same offset range, changed the offset voltage divider to divide by 2, not 4.
+* Added antiparallel diodes and a pulldown resistor in the offset voltage divider, a la YuSynth mixer. This and the small value resistors makes the response to the offset knob knob S shaped, with a flat region around 0 V, reaching about ±10.2 V offset at extreme ends. ![Bias dead zone](Images/deadzone.png) 
+Note, if rails are asymmetric it shifts the inflection point horizontally but *not* vertically, which is great! -12 V and +11 V by simulation gives an S centered at about 48% pot position and 0 V.
+* Reduced impedances in most stages.
