@@ -681,34 +681,7 @@ Wire Wire Line
 	4600 3450 4900 3450
 Connection ~ 4600 3300
 Wire Wire Line
-	4200 4550 4250 4550
-$Comp
-L Device:C C1
-U 1 1 5F92AA22
-P 3900 5300
-F 0 "C1" V 3750 5300 50  0000 C CNN
-F 1 "100 pF" V 3650 5300 50  0000 C CNN
-F 2 "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm" H 3938 5150 50  0001 C CNN
-F 3 "~" H 3900 5300 50  0001 C CNN
-	1    3900 5300
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	3000 5300 3750 5300
-Wire Wire Line
-	4050 5300 4250 5300
-Wire Wire Line
-	3825 4900 3750 4900
-Connection ~ 3000 4900
-Wire Wire Line
-	3000 4900 3000 5300
-Wire Wire Line
-	4125 4900 4250 4900
-Wire Wire Line
-	4250 4900 4250 4550
-Wire Wire Line
-	4250 4900 4250 5300
-Connection ~ 4250 4900
+	4125 5300 4250 5300
 $Comp
 L Device:R R15
 U 1 1 5F939AC9
@@ -753,42 +726,21 @@ F 3 "~" H 5750 3550 50  0001 C CNN
 	1    5750 3550
 	0    1    1    0   
 $EndComp
-$Comp
-L Amplifier_Operational:TL074 U3
-U 1 1 5F97069E
-P 3900 4550
-F 0 "U3" H 3900 4917 50  0000 C CNN
-F 1 "TL074" H 3900 4826 50  0000 C CNN
-F 2 "ao_tht:DIP-14_W7.62mm_Socket_LongPads" H 3850 4650 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 3950 4750 50  0001 C CNN
-	1    3900 4550
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	4250 3650 4400 3650
 Wire Wire Line
 	5500 3550 5550 3550
-Wire Wire Line
-	3600 4650 3000 4650
 $Comp
 L power:GND #PWR09
 U 1 1 5F979F3F
-P 3400 4350
-F 0 "#PWR09" H 3400 4100 50  0001 C CNN
-F 1 "GND" H 3405 4177 50  0000 C CNN
-F 2 "" H 3400 4350 50  0001 C CNN
-F 3 "" H 3400 4350 50  0001 C CNN
-	1    3400 4350
+P 3225 4350
+F 0 "#PWR09" H 3225 4100 50  0001 C CNN
+F 1 "GND" H 3230 4177 50  0000 C CNN
+F 2 "" H 3225 4350 50  0001 C CNN
+F 3 "" H 3225 4350 50  0001 C CNN
+	1    3225 4350
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	3400 4350 3400 4300
-Wire Wire Line
-	3400 4300 3500 4300
-Wire Wire Line
-	3500 4300 3500 4450
-Wire Wire Line
-	3500 4450 3600 4450
 $Comp
 L Device:R R13
 U 1 1 5F97E07E
@@ -812,22 +764,6 @@ Connection ~ 4850 3650
 Wire Wire Line
 	4850 3650 4900 3650
 Connection ~ 6000 3550
-Wire Wire Line
-	3975 5050 3825 5050
-Wire Wire Line
-	3825 5050 3825 4900
-$Comp
-L Device:R_POT RV6
-U 1 1 5F98E04F
-P 3975 4900
-F 0 "RV6" V 3875 4900 50  0000 C CNN
-F 1 "B100k" V 4200 4925 50  0000 C CNN
-F 2 "ao_tht:Potentiometer_Alpha_RA6020F_Single_Slide" H 3975 4900 50  0001 C CNN
-F 3 "~" H 3975 4900 50  0001 C CNN
-	1    3975 4900
-	0    1    1    0   
-$EndComp
-Connection ~ 3825 4900
 $Comp
 L Device:R R12
 U 1 1 5F91A361
@@ -933,12 +869,10 @@ Connection ~ 5550 2200
 Wire Wire Line
 	5900 3550 6000 3550
 Wire Wire Line
-	6300 2400 6300 3200
-Connection ~ 6300 3200
+	6300 2400 6300 3550
+Connection ~ 6300 3550
 Wire Wire Line
-	6300 3200 6300 3550
-Wire Wire Line
-	6300 3200 8250 3200
+	6300 3550 8250 3550
 $Comp
 L Device:C C7
 U 1 1 6057343B
@@ -988,16 +922,16 @@ Wire Wire Line
 Wire Wire Line
 	7950 2300 7950 2950
 Wire Wire Line
-	8150 3400 8150 3300
+	8150 3700 8150 3650
 $Comp
 L power:GND #PWR021
 U 1 1 60563BF2
-P 8150 3400
-F 0 "#PWR021" H 8150 3150 50  0001 C CNN
-F 1 "GND" H 8155 3227 50  0000 C CNN
-F 2 "" H 8150 3400 50  0001 C CNN
-F 3 "" H 8150 3400 50  0001 C CNN
-	1    8150 3400
+P 8150 3700
+F 0 "#PWR021" H 8150 3450 50  0001 C CNN
+F 1 "GND" H 8155 3527 50  0000 C CNN
+F 2 "" H 8150 3700 50  0001 C CNN
+F 3 "" H 8150 3700 50  0001 C CNN
+	1    8150 3700
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -1007,12 +941,12 @@ Wire Wire Line
 $Comp
 L Connector_Generic:Conn_01x02 J6
 U 1 1 5F91D8D0
-P 8450 3200
-F 0 "J6" H 8530 3192 50  0000 L CNN
-F 1 "Conn_01x02" H 8530 3101 50  0000 L CNN
-F 2 "ao_tht:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 8450 3200 50  0001 C CNN
-F 3 "~" H 8450 3200 50  0001 C CNN
-	1    8450 3200
+P 8450 3550
+F 0 "J6" H 8530 3542 50  0000 L CNN
+F 1 "Conn_01x02" H 8530 3451 50  0000 L CNN
+F 2 "ao_tht:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 8450 3550 50  0001 C CNN
+F 3 "~" H 8450 3550 50  0001 C CNN
+	1    8450 3550
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1028,10 +962,10 @@ F 3 "~" H 8450 2300 50  0001 C CNN
 $EndComp
 Text Label 8250 2300 2    50   ~ 0
 ~OUT
-Text Label 8250 3200 2    50   ~ 0
+Text Label 8250 3550 2    50   ~ 0
 OUT
 Wire Wire Line
-	8150 3300 8250 3300
+	8150 3650 8250 3650
 Wire Wire Line
 	8150 2400 8250 2400
 Wire Wire Line
@@ -1048,8 +982,8 @@ F 3 "" H 8150 2500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Connection ~ 7950 2300
-Text Notes 2900 6200 0    50   ~ 0
-Adjust trim for unity gain at full pot scale.\n\nReduced input and feedback resistors by\na factor of 10 to improve noise. This makes\nthe pots less linear but not badly so. Wilson used\n100 pF with 1M in feedback, this RC seemed too\nlarge so I kept 100 pF with 120k.
+Text Notes 2875 6050 0    50   ~ 0
+Adjust trim for unity gain at full pot scale.\n\nReduced input and feedback resistors by\na factor of 10 to improve noise. This makes\nthe pots less linear but not badly so.
 $Comp
 L Device:R R17
 U 1 1 5F94E15C
@@ -1061,37 +995,8 @@ F 3 "~" H 7650 2300 50  0001 C CNN
 	1    7650 2300
 	0    1    1    0   
 $EndComp
-$Comp
-L Device:R_POT_TRIM RV5
-U 1 1 6049DB94
-P 3600 4900
-F 0 "RV5" V 3500 4900 50  0000 C CNN
-F 1 "10k" V 3825 4875 50  0000 C CNN
-F 2 "ao_tht:Potentiometer_Bourns_3296W_Vertical" H 3600 4900 50  0001 C CNN
-F 3 "~" H 3600 4900 50  0001 C CNN
-	1    3600 4900
-	0    1    1    0   
-$EndComp
 Wire Wire Line
-	3450 4900 3350 4900
-Wire Wire Line
-	3450 4900 3450 5050
-Wire Wire Line
-	3450 5050 3600 5050
-Connection ~ 3450 4900
-$Comp
-L Device:R R6
-U 1 1 604B0AFF
-P 3200 4900
-F 0 "R6" V 3100 4900 50  0000 C CNN
-F 1 "15k" V 3300 4900 50  0000 C CNN
-F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 3130 4900 50  0001 C CNN
-F 3 "~" H 3200 4900 50  0001 C CNN
-	1    3200 4900
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	3050 4900 3000 4900
+	3050 5300 3000 5300
 Wire Notes Line
 	1650 1675 1650 4525
 Wire Notes Line
@@ -1107,8 +1012,6 @@ Wire Notes Line
 Wire Wire Line
 	2125 4650 3000 4650
 Connection ~ 3000 4650
-Wire Wire Line
-	3000 4650 3000 4900
 Wire Wire Line
 	3350 2350 3350 2300
 Text Notes 1125 1625 0    50   ~ 0
@@ -1309,47 +1212,125 @@ OUT_P
 Text Label 8750 6150 0    50   ~ 0
 ~OUT~_P
 $Comp
-L Mechanical:Housing N1
-U 1 1 605D7FB4
-P 9650 1850
-F 0 "N1" H 9803 1884 50  0000 L CNN
-F 1 "AO logo" H 9803 1793 50  0000 L CNN
-F 2 "ao_tht:analogoutput" H 9700 1900 50  0001 C CNN
-F 3 "~" H 9700 1900 50  0001 C CNN
-	1    9650 1850
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:Housing N2
-U 1 1 6063EFCF
-P 9650 2200
-F 0 "N2" H 9803 2234 50  0000 L CNN
-F 1 "OSHW logo" H 9803 2143 50  0000 L CNN
-F 2 "Symbol:OSHW-Logo2_7.3x6mm_SilkScreen" H 9700 2250 50  0001 C CNN
-F 3 "~" H 9700 2250 50  0001 C CNN
-	1    9650 2200
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H1
+L ao_symbols:MountingHole H1
 U 1 1 604BF48C
 P 9500 2600
 F 0 "H1" H 9600 2646 50  0000 L CNN
 F 1 "MountingHole" H 9600 2555 50  0000 L CNN
 F 2 "ao_tht:MountingHole_3.2mm_M3" H 9500 2600 50  0001 C CNN
 F 3 "~" H 9500 2600 50  0001 C CNN
+F 4 "DNF" H 9500 2600 50  0001 C CNN "Config"
 	1    9500 2600
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H2
+L ao_symbols:MountingHole H2
 U 1 1 604C195A
 P 9500 2800
 F 0 "H2" H 9600 2846 50  0000 L CNN
 F 1 "MountingHole" H 9600 2755 50  0000 L CNN
 F 2 "ao_tht:MountingHole_3.2mm_M3" H 9500 2800 50  0001 C CNN
 F 3 "~" H 9500 2800 50  0001 C CNN
+F 4 "DNF" H 9500 2800 50  0001 C CNN "Config"
 	1    9500 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R6
+U 1 1 604B0AFF
+P 3200 5300
+F 0 "R6" V 3100 5300 50  0000 C CNN
+F 1 "15k" V 3300 5300 50  0000 C CNN
+F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 3130 5300 50  0001 C CNN
+F 3 "~" H 3200 5300 50  0001 C CNN
+	1    3200 5300
+	0    1    1    0   
+$EndComp
+Connection ~ 3450 5300
+Wire Wire Line
+	3450 5450 3600 5450
+Wire Wire Line
+	3450 5300 3450 5450
+Wire Wire Line
+	3450 5300 3350 5300
+$Comp
+L Device:R_POT_TRIM RV5
+U 1 1 6049DB94
+P 3600 5300
+F 0 "RV5" V 3500 5300 50  0000 C CNN
+F 1 "10k" V 3825 5275 50  0000 C CNN
+F 2 "ao_tht:Potentiometer_Bourns_3296W_Vertical" H 3600 5300 50  0001 C CNN
+F 3 "~" H 3600 5300 50  0001 C CNN
+	1    3600 5300
+	0    1    1    0   
+$EndComp
+Connection ~ 3825 5300
+$Comp
+L Device:R_POT RV6
+U 1 1 5F98E04F
+P 3975 5300
+F 0 "RV6" V 3875 5300 50  0000 C CNN
+F 1 "B100k" V 4200 5325 50  0000 C CNN
+F 2 "ao_tht:Potentiometer_Alpha_RA6020F_Single_Slide" H 3975 5300 50  0001 C CNN
+F 3 "~" H 3975 5300 50  0001 C CNN
+	1    3975 5300
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3825 5450 3825 5300
+Wire Wire Line
+	3975 5450 3825 5450
+Wire Wire Line
+	3825 5300 3750 5300
+Wire Wire Line
+	3000 4650 3000 5300
+Wire Wire Line
+	4250 4550 4250 5300
+Wire Wire Line
+	3350 4450 3400 4450
+Wire Wire Line
+	3400 4650 3000 4650
+Wire Wire Line
+	4000 4550 4250 4550
+$Comp
+L Amplifier_Operational:TL074 U3
+U 1 1 5F97069E
+P 3700 4550
+F 0 "U3" H 3700 4917 50  0000 C CNN
+F 1 "TL074" H 3700 4826 50  0000 C CNN
+F 2 "ao_tht:DIP-14_W7.62mm_Socket_LongPads" H 3650 4650 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 3750 4750 50  0001 C CNN
+	1    3700 4550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3225 4350 3225 4300
+Wire Wire Line
+	3225 4300 3350 4300
+Wire Wire Line
+	3350 4300 3350 4450
+$Comp
+L ao_symbols:Graphic GRAF?
+U 1 1 6062B7B3
+P 9550 1850
+F 0 "GRAF?" H 9828 1896 50  0000 L CNN
+F 1 "AO Logo" H 9828 1805 50  0000 L CNN
+F 2 "ao_tht:analogoutput" H 9550 1850 50  0001 C CNN
+F 3 "" H 9550 1850 50  0001 C CNN
+F 4 "DNF" H 9550 1850 50  0001 C CNN "Config"
+	1    9550 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L ao_symbols:Graphic GRAF?
+U 1 1 6062C5FA
+P 9550 2200
+F 0 "GRAF?" H 9828 2246 50  0000 L CNN
+F 1 "OSHW Logo" H 9828 2155 50  0000 L CNN
+F 2 "ao_tht:OSHW-Logo2_7.3x6mm_SilkScreen" H 9550 2200 50  0001 C CNN
+F 3 "" H 9550 2200 50  0001 C CNN
+F 4 "DNF" H 9550 2200 50  0001 C CNN "Config"
+	1    9550 2200
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
