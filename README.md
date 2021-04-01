@@ -1,6 +1,6 @@
 ## AO DC Mixer
 
-**Untested hardware and software — Do not assume anything works!**
+**Untested hardware — Do not assume anything works!**
 
 Based loosely on MFOS Quad DC mixer (but only one unit per module). Changes:
 
