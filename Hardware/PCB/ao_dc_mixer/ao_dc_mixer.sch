@@ -101,8 +101,6 @@ F 3 "" H 4950 7100 50  0001 C CNN
 	1    4950 7100
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	4250 7100 4550 7100
 Connection ~ 4550 7100
 Wire Wire Line
 	4950 7100 5200 7100
@@ -111,10 +109,6 @@ Wire Wire Line
 	2350 6900 2900 6900
 Wire Wire Line
 	2350 7300 2900 7300
-Wire Wire Line
-	3200 6900 3600 6900
-Wire Wire Line
-	3200 7300 3600 7300
 Wire Wire Line
 	1450 7000 1450 7100
 Connection ~ 1450 7100
@@ -289,33 +283,33 @@ Wire Wire Line
 	5650 7400 5200 7400
 Connection ~ 5200 7400
 $Comp
-L Connector_Generic:Conn_01x02 J12
+L ao_symbols:2_pin_Molex_connector J12
 U 1 1 5F915D1D
 P 9250 4150
 F 0 "J12" H 9330 4142 50  0000 L CNN
-F 1 "Conn_01x02" H 9330 4051 50  0000 L CNN
+F 1 "2 Pin Molex Connector" H 9330 4051 50  0000 L CNN
 F 2 "ao_tht:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 9250 4150 50  0001 C CNN
 F 3 "~" H 9250 4150 50  0001 C CNN
 	1    9250 4150
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x02 J13
+L ao_symbols:2_pin_Molex_connector J13
 U 1 1 5F9169FF
 P 9250 4650
 F 0 "J13" H 9330 4642 50  0000 L CNN
-F 1 "Conn_01x02" H 9330 4551 50  0000 L CNN
+F 1 "2 Pin Molex Connector" H 9330 4551 50  0000 L CNN
 F 2 "ao_tht:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 9250 4650 50  0001 C CNN
 F 3 "~" H 9250 4650 50  0001 C CNN
 	1    9250 4650
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x02 J14
+L ao_symbols:2_pin_Molex_connector J14
 U 1 1 5F916D69
 P 9250 5150
 F 0 "J14" H 9330 5142 50  0000 L CNN
-F 1 "Conn_01x02" H 9330 5051 50  0000 L CNN
+F 1 "2 Pin Molex Connector" H 9330 5051 50  0000 L CNN
 F 2 "ao_tht:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 9250 5150 50  0001 C CNN
 F 3 "~" H 9250 5150 50  0001 C CNN
 	1    9250 5150
@@ -344,35 +338,39 @@ F 3 "~" H 8500 6150 50  0001 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x02 J15
+L ao_symbols:2_pin_Molex_connector J15
 U 1 1 5F91981D
 P 9250 5650
 F 0 "J15" H 9330 5642 50  0000 L CNN
-F 1 "Conn_01x02" H 9330 5551 50  0000 L CNN
+F 1 "2 Pin Molex Connector" H 9330 5551 50  0000 L CNN
 F 2 "ao_tht:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 9250 5650 50  0001 C CNN
 F 3 "~" H 9250 5650 50  0001 C CNN
 	1    9250 5650
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x02 J16
+L ao_symbols:2_pin_Molex_connector J16
 U 1 1 5F919823
 P 9250 6150
 F 0 "J16" H 9330 6142 50  0000 L CNN
-F 1 "Conn_01x02" H 9330 6051 50  0000 L CNN
+F 1 "2 Pin Molex Connector" H 9330 6051 50  0000 L CNN
 F 2 "ao_tht:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 9250 6150 50  0001 C CNN
 F 3 "~" H 9250 6150 50  0001 C CNN
 	1    9250 6150
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_POT RV1
+L ao_symbols:R_SLIDE_POT RV1
 U 1 1 5F8D23A5
 P 1425 2200
 F 0 "RV1" H 1356 2246 50  0000 R CNN
 F 1 "B100k" H 1356 2155 50  0000 R CNN
 F 2 "ao_tht:Potentiometer_Alpha_RA6020F_Single_Slide" H 1425 2200 50  0001 C CNN
 F 3 "~" H 1425 2200 50  0001 C CNN
+F 4 "Alpha" H 1425 2200 50  0001 C CNN "Manufacturer"
+F 5 "RA6020F" H 1425 2200 50  0001 C CNN "Part"
+F 6 "Tayda" H 1425 2200 50  0001 C CNN "Vendor"
+F 7 "A-4496" H 1425 2200 50  0001 C CNN "SKU"
 	1    1425 2200
 	1    0    0    1   
 $EndComp
@@ -416,13 +414,17 @@ $EndComp
 Wire Wire Line
 	1975 2200 2125 2200
 $Comp
-L Device:R_POT RV2
+L ao_symbols:R_SLIDE_POT RV2
 U 1 1 5F8D5CD5
 P 1425 3300
 F 0 "RV2" H 1356 3346 50  0000 R CNN
 F 1 "B100k" H 1356 3255 50  0000 R CNN
 F 2 "ao_tht:Potentiometer_Alpha_RA6020F_Single_Slide" H 1425 3300 50  0001 C CNN
 F 3 "~" H 1425 3300 50  0001 C CNN
+F 4 "Alpha" H 1425 3300 50  0001 C CNN "Manufacturer"
+F 5 "RA6020F" H 1425 3300 50  0001 C CNN "Part"
+F 6 "Tayda" H 1425 3300 50  0001 C CNN "Vendor"
+F 7 "A-4496" H 1425 3300 50  0001 C CNN "SKU"
 	1    1425 3300
 	1    0    0    1   
 $EndComp
@@ -466,13 +468,17 @@ $EndComp
 Wire Wire Line
 	1975 3300 2125 3300
 $Comp
-L Device:R_POT RV3
+L ao_symbols:R_SLIDE_POT RV3
 U 1 1 5F8D8AC9
 P 1425 4400
 F 0 "RV3" H 1356 4446 50  0000 R CNN
 F 1 "B100k" H 1356 4355 50  0000 R CNN
 F 2 "ao_tht:Potentiometer_Alpha_RA6020F_Single_Slide" H 1425 4400 50  0001 C CNN
 F 3 "~" H 1425 4400 50  0001 C CNN
+F 4 "Alpha" H 1425 4400 50  0001 C CNN "Manufacturer"
+F 5 "RA6020F" H 1425 4400 50  0001 C CNN "Part"
+F 6 "Tayda" H 1425 4400 50  0001 C CNN "Vendor"
+F 7 "A-4496" H 1425 4400 50  0001 C CNN "SKU"
 	1    1425 4400
 	1    0    0    1   
 $EndComp
@@ -521,13 +527,17 @@ Connection ~ 2125 3300
 Wire Wire Line
 	2125 3300 2125 4400
 $Comp
-L Device:R_POT RV4
+L ao_symbols:R_SLIDE_POT RV4
 U 1 1 5F8F9E94
 P 3350 2150
 F 0 "RV4" H 3281 2196 50  0000 R CNN
 F 1 "B100k" H 3281 2105 50  0000 R CNN
 F 2 "ao_tht:Potentiometer_Alpha_RA6020F_Single_Slide" H 3350 2150 50  0001 C CNN
 F 3 "~" H 3350 2150 50  0001 C CNN
+F 4 "Alpha" H 3350 2150 50  0001 C CNN "Manufacturer"
+F 5 "RA6020F" H 3350 2150 50  0001 C CNN "Part"
+F 6 "Tayda" H 3350 2150 50  0001 C CNN "Vendor"
+F 7 "A-4496" H 3350 2150 50  0001 C CNN "SKU"
 	1    3350 2150
 	1    0    0    1   
 $EndComp
@@ -803,11 +813,11 @@ $EndComp
 Wire Wire Line
 	4700 3650 4850 3650
 $Comp
-L Connector_Generic:Conn_01x02 J1
+L ao_symbols:2_pin_Molex_header J1
 U 1 1 5F90C003
 P 825 1950
 F 0 "J1" H 743 2167 50  0000 C CNN
-F 1 "Conn_01x02" H 743 2076 50  0000 C CNN
+F 1 "2 Pin Molex Header" H 743 2076 50  0000 C CNN
 F 2 "ao_tht:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 825 1950 50  0001 C CNN
 F 3 "~" H 825 1950 50  0001 C CNN
 	1    825  1950
@@ -820,22 +830,22 @@ IN2
 Text Label 1025 4150 0    50   ~ 0
 IN3
 $Comp
-L Connector_Generic:Conn_01x02 J2
+L ao_symbols:2_pin_Molex_header J2
 U 1 1 5F914F32
 P 825 3050
 F 0 "J2" H 743 3267 50  0000 C CNN
-F 1 "Conn_01x02" H 743 3176 50  0000 C CNN
+F 1 "2 Pin Molex Header" H 743 3176 50  0000 C CNN
 F 2 "ao_tht:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 825 3050 50  0001 C CNN
 F 3 "~" H 825 3050 50  0001 C CNN
 	1    825  3050
 	-1   0    0    -1  
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x02 J3
+L ao_symbols:2_pin_Molex_header J3
 U 1 1 5F915325
 P 825 4150
 F 0 "J3" H 743 4367 50  0000 C CNN
-F 1 "Conn_01x02" H 743 4276 50  0000 C CNN
+F 1 "2 Pin Molex Header" H 743 4276 50  0000 C CNN
 F 2 "ao_tht:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 825 4150 50  0001 C CNN
 F 3 "~" H 825 4150 50  0001 C CNN
 	1    825  4150
@@ -939,22 +949,22 @@ Wire Wire Line
 Wire Wire Line
 	7800 2300 7950 2300
 $Comp
-L Connector_Generic:Conn_01x02 J6
+L ao_symbols:2_pin_Molex_header J6
 U 1 1 5F91D8D0
 P 8450 3550
 F 0 "J6" H 8530 3542 50  0000 L CNN
-F 1 "Conn_01x02" H 8530 3451 50  0000 L CNN
+F 1 "2 Pin Molex Header" H 8530 3451 50  0000 L CNN
 F 2 "ao_tht:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 8450 3550 50  0001 C CNN
 F 3 "~" H 8450 3550 50  0001 C CNN
 	1    8450 3550
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x02 J5
+L ao_symbols:2_pin_Molex_header J5
 U 1 1 5F91D39D
 P 8450 2300
 F 0 "J5" H 8530 2292 50  0000 L CNN
-F 1 "Conn_01x02" H 8530 2201 50  0000 L CNN
+F 1 "2 Pin Molex Header" H 8530 2201 50  0000 L CNN
 F 2 "ao_tht:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 8450 2300 50  0001 C CNN
 F 3 "~" H 8450 2300 50  0001 C CNN
 	1    8450 2300
@@ -1261,18 +1271,26 @@ F 0 "RV5" V 3500 5300 50  0000 C CNN
 F 1 "10k" V 3825 5275 50  0000 C CNN
 F 2 "ao_tht:Potentiometer_Bourns_3296W_Vertical" H 3600 5300 50  0001 C CNN
 F 3 "~" H 3600 5300 50  0001 C CNN
+F 4 "Alpha" V 3600 5300 50  0001 C CNN "Manufacturer"
+F 5 "3296W" V 3600 5300 50  0001 C CNN "Part"
+F 6 "Tayda" V 3600 5300 50  0001 C CNN "Vendor"
+F 7 "A-586" V 3600 5300 50  0001 C CNN "SKU"
 	1    3600 5300
 	0    1    1    0   
 $EndComp
 Connection ~ 3825 5300
 $Comp
-L Device:R_POT RV6
+L ao_symbols:R_SLIDE_POT RV6
 U 1 1 5F98E04F
 P 3975 5300
 F 0 "RV6" V 3875 5300 50  0000 C CNN
 F 1 "B100k" V 4200 5325 50  0000 C CNN
 F 2 "ao_tht:Potentiometer_Alpha_RA6020F_Single_Slide" H 3975 5300 50  0001 C CNN
 F 3 "~" H 3975 5300 50  0001 C CNN
+F 4 "Alpha" V 3975 5300 50  0001 C CNN "Manufacturer"
+F 5 "RA6020F" V 3975 5300 50  0001 C CNN "Part"
+F 6 "Tayda" V 3975 5300 50  0001 C CNN "Vendor"
+F 7 "A-4496" V 3975 5300 50  0001 C CNN "SKU"
 	1    3975 5300
 	0    1    1    0   
 $EndComp
@@ -1310,10 +1328,10 @@ Wire Wire Line
 Wire Wire Line
 	3350 4300 3350 4450
 $Comp
-L ao_symbols:Graphic GRAF?
+L ao_symbols:Graphic GRAF1
 U 1 1 6062B7B3
 P 9550 1850
-F 0 "GRAF?" H 9828 1896 50  0000 L CNN
+F 0 "GRAF1" H 9828 1896 50  0000 L CNN
 F 1 "AO Logo" H 9828 1805 50  0000 L CNN
 F 2 "ao_tht:analogoutput" H 9550 1850 50  0001 C CNN
 F 3 "" H 9550 1850 50  0001 C CNN
@@ -1322,15 +1340,33 @@ F 4 "DNF" H 9550 1850 50  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L ao_symbols:Graphic GRAF?
+L ao_symbols:Graphic GRAF2
 U 1 1 6062C5FA
 P 9550 2200
-F 0 "GRAF?" H 9828 2246 50  0000 L CNN
+F 0 "GRAF2" H 9828 2246 50  0000 L CNN
 F 1 "OSHW Logo" H 9828 2155 50  0000 L CNN
 F 2 "ao_tht:OSHW-Logo2_7.3x6mm_SilkScreen" H 9550 2200 50  0001 C CNN
 F 3 "" H 9550 2200 50  0001 C CNN
 F 4 "DNF" H 9550 2200 50  0001 C CNN "Config"
 	1    9550 2200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4250 7100 4550 7100
+Wire Wire Line
+	3200 7300 3600 7300
+Wire Wire Line
+	3200 6900 3600 6900
+$Comp
+L ao_symbols:Graphic GRAF3
+U 1 1 6065B703
+P 9550 3100
+F 0 "GRAF3" H 9828 3146 50  0000 L CNN
+F 1 "Panel holes" H 9828 3055 50  0000 L CNN
+F 2 "ao_dc_mixer:ao_dc_mixer_slide_holes" H 9550 3100 50  0001 C CNN
+F 3 "" H 9550 3100 50  0001 C CNN
+F 4 "DNF" H 9550 3100 50  0001 C CNN "Config"
+	1    9550 3100
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
