@@ -8,9 +8,9 @@ Generated from schematic by Eeschema 5.1.9-73d0e3b20d~88~ubuntu20.04.1
 
 | Refs | Qty | Component | Description | Manufacturer | Part | Vendor | SKU |
 | ----- | --- | ---- | ----------- | ---- | ---- | ---- | ---- |
-| C2, C3 | 2 | 10uF | Polarized capacitor |  |  |  |  |
-| C4, C7 | 2 | 330 pF | Unpolarized capacitor |  |  |  |  |
-| C5, C6 | 2 | 0.1uF | Unpolarized capacitor |  |  |  |  |
+| C2, C3 | 2 | 10uF | Electrolytic capacitor |  |  |  |  |
+| C4, C7 | 2 | 330 pF | Ceramic capacitor |  |  |  |  |
+| C5, C6 | 2 | 0.1uF | Ceramic capacitor |  |  |  |  |
 | D1, D2 | 2 | 2N5817 | Schottky diode |  |  |  |  |
 | D3, D4 | 2 | 1N4148 | 100V 0.15A standard switching diode, DO-35 |  |  |  |  |
 | J1, J2, J3, J5, J6 | 5 | 2 Pin Molex Header | 2 pin Molex header 2.54 mm spacing |  |  | Tayda | A-804 |
