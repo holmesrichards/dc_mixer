@@ -27,7 +27,10 @@ Generated from schematic by Eeschema 5.1.9-73d0e3b20d~88~ubuntu20.04.1
 | U3 | 1 | TL074 | Quad Low-Noise JFET-Input Operational Amplifiers, DIP-14 |  |  |  |  |
 | | 1 | | 14 pin DIP socket | | | | |
 | | 5 | | Knobs | | | | |
-| | 6 | | M3 screws | | | | |
-| | 2 | | M3 16 mm spacers | | | | |
+| | 2 | | M3 10 mm screws | | | | |
+| | 2 | | M3 6 mm screws | | | | |
+| | 2 | | M3 5 mm female-female spacers | | | | |
+| | 2 | | M3 20 mm male-female spacers | | | | |
+| | 2 | | M3 nuts | | | | |
     
 C1, U1, U2 references not used
