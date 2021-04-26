@@ -15,5 +15,5 @@ Note, if rails are asymmetric it shifts the inflection point horizontally but *n
 * [Schematic](Docs/ao_dc_mixer.pdf)
 * [BOM](Docs/ao_dc_mixer_bom.pdf)
 
-![](/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Images/ao_dc_mixer.png) 
-![](/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Images/ao_dc_mixer_panel_slide.png) 
+![](Images/ao_dc_mixer.png) 
+![](Images/ao_dc_mixer_panel_slide.png) 

@@ -12,13 +12,13 @@ The screws in the top two panel mounting holes go into the left and right slide 
 
 All Molex headers have the ground connection on the left when looking at them with the locking tab on top:
 
-![](/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Images/molexwiring.png) 
+![](../Images/molexwiring.png) 
 
 Of course you can solder the wires directly to the PCB if you don't want to use Molex connectors.
 
 The ground wire goes to the sleeve pin on the jack and the other wire goes to tip:
 
-![](/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/DC Mixer/Images/pinout_photo.png) 
+![](../Images/pinout_photo.png) 
 
 ## Calibration
 
