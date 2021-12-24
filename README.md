@@ -9,6 +9,10 @@ This is a DC coupled 3-input mixer, designed mainly for mixing control voltage s
 Note, if rails are asymmetric it shifts the inflection point horizontally but *not* vertically, which is great! -12 V and +11 V by simulation gives an S centered at about 48% pot position and 0 V.
 * Reduced impedances in most stages.
 
+## Current draw
+9 mA +12 V, 9 mA -12 V
+
+
 ## Documentation
 
 * [Build notes and calibration](Docs/build_notes.md) 
